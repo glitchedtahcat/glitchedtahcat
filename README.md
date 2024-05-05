@@ -5,6 +5,8 @@
 </div>
 
 ###
+# Support Glitched
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D7XQ8O5)
 
 <div align="center">
 
