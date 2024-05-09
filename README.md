@@ -1,3 +1,4 @@
+# My Github Stats
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=Glitched-Studios+%7C+glitched)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=glitchedtahcat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -5,6 +6,10 @@
 </div>
 
 ###
+
+# My Daily.Dev Stats
+<a href="https://app.daily.dev/glitcheddacat"><img src="https://api.daily.dev/devcards/v2/xFapaxcIYvK7YttqvuQBk.png?type=wide&r=mw2" width="652" alt="Glitched Da Cat's Dev Card"/></a>
+
 # Support Glitched
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D7XQ8O5)
 
