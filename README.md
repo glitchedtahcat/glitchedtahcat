@@ -9,7 +9,8 @@
 
 # My Daily.Dev Stats
 <a href="https://app.daily.dev/glitcheddacat"><img src="https://api.daily.dev/devcards/v2/xFapaxcIYvK7YttqvuQBk.png?type=wide&r=mw2" width="652" alt="Glitched Da Cat's Dev Card"/></a>
-
+# My Google Dev Profile
+<a href="https://g.dev/glitched-da-cat">Link</a>
 # Support Glitched
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D7XQ8O5)
 
